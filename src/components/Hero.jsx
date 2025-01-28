@@ -53,14 +53,14 @@ export default function Hero() {
                      <div className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))]  from-orange-500 via-orange-300 to-orange-100 button button--pandora">
                         <a
                            className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-orange-500 via-orange-300 to-orange-100 text-primaryBackground no-underline"
-                           href="#portfolio"
+                           href="#projects"
                         >
                            &lt; View My Work /&gt;
                         </a>
                      </div>
                      <div className="flex items-center   ml-5 sm:ml-12  text-base text-white hover:underline cursor-pointer">
                         <a
-                           href="#contactme"
+                           href="#contact"
                            className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] bg-clip-text from-orange-500 via-orange-300 to-orange-100 pr-2 font-semibold text-transparent no-underline"
                         >
                            Contact Me
