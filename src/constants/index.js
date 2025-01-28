@@ -50,6 +50,3 @@ export const projects = [
     source_code_link: "https://github.com/KanishkGoyal19/Chef_AI.git",
   },
 ];
-
-
-export { experiences, projects };
