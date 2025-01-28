@@ -50,3 +50,21 @@ export const projects = [
     source_code_link: "https://github.com/KanishkGoyal19/Chef_AI.git",
   },
 ];
+
+export const skills = [
+  { name: "HTML/CSS", percentage: 100 },
+  { name: "JavaScript", percentage: 95 },
+  { name: "Java", percentage: 80 },
+  { name: "Python", percentage: 85 },
+  { name: "Tailwind CSS", percentage: 100 },
+  { name: "React", percentage: 100 },
+  { name: "Next Js", percentage: 100 },
+  { name: "Front-End Development", percentage: 100 },
+  { name: "Back-End Development", percentage: 80 },
+  { name: "Adobe XD / FIGMA", percentage: 90 },
+  { name: "SQL", percentage: 75 },
+  { name: "R", percentage: 70 },
+  { name: "Git/Github", percentage: 100 },
+  { name: "API Integration", percentage: 80 },
+];
+
