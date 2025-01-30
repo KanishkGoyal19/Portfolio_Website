@@ -31,10 +31,10 @@ export default function About() {
             {/* Left Section: Text */}
             <div className="lg:w-[60%]">
                <p className="text-base text-black sm:text-lg md:text-xl leading-relaxed mb-6">
-                  I have a strong passion for technology and problem-solving, I am constantly expanding my knowledge in programming, software development, and innovative tools that drive impactful solutions. My academic journey has been marked by a commitment to excellence, reflected in my consistent performance and recognition through scholarships and honors.
+                  I have a strong foundation in programming languages like Java, JavaScript, C, Python, R, and HTML/CSS, and I enjoy tackling complex problems while developing efficient, innovative solutions. I have experience working with modern development tools such as React, Next.js, and Tailwind CSS, as well as version control systems like Git and GitHub, enabling me to build scalable and user-friendly applications.
                </p>
                <p className="text-base text-black sm:text-lg md:text-xl leading-relaxed mb-6">
-                  I specialize in front-end development but also have experience with back-end technologies like Node.js, React, and Next.js. My goal is to deliver seamless user experiences while continuously learning and growing as a developer and ultimately become a successful Web Developer.
+                  Academically, I have consistently demonstrated excellence, earning a place on the Dean’s List and receiving multiple scholarships for my performance. Beyond technical skills, I take pride in my ability to manage time effectively, think critically, and adapt to new challenges. I am always looking for opportunities to expand my knowledge and apply my skills to meaningful projects.
                </p>
             </div>
 
