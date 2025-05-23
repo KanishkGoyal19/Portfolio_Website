@@ -45,10 +45,25 @@ export const projects = [
   {
     title: "ForkCast",
     description: "Forkcast is a full-stack recipe generator that crafts personalized meal suggestions based on your available ingredients, dietary preferences, and ingredient restrictions. Powered by the Claude AI API and backed by MongoDB.",
-    tags: [{ name: "React", color: "text-blue-500" }, { name: "JavaScript", color: "text-yellow-500" }, { name: "API Integration", color: "text-orange-500" }, { name: "Backend Functionality", color: "text-pink-500" },{ name: "Vercel", color: "text-purple-500" } ],
+    tags: [{ name: "React", color: "text-blue-500" }, { name: "JavaScript", color: "text-yellow-500" }, { name: "API Integration", color: "text-orange-500" }, { name: "Backend Functionality", color: "text-pink-500" }, { name: "Vercel", color: "text-purple-500" }],
     image: "/Images/Project1.png",
     source_code_link: "https://github.com/KanishkGoyal19/Fork-Cast",
   },
+  {
+    title: "GridWatch",
+    description: "GridWatch is a full-stack Formula 1 analytics and prediction platform that lets users track race statistics, view driver and constructor standings, and submit race predictions for points. Built with Next.js, Tailwind CSS, and MongoDB and REST API's",
+    tags: [
+      { name: "React", color: "text-blue-500" },
+      { name: "Next.js", color: "text-green-500" },
+      { name: "Tailwind CSS", color: "text-pink-500" },
+      { name: "MongoDB", color: "text-emerald-500" },
+      { name: "API Integration", color: "text-orange-500" },
+      { name: "Full-Stack", color: "text-indigo-500" }
+    ],
+    image: "/Images/Project3.png",
+    source_code_link: "https://github.com/KanishkGoyal19/Grid-Watch.git", // update if different
+  }
+
 ];
 
 export const skills = [
