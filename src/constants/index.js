@@ -74,7 +74,7 @@ export const skills = [
   { name: "Tailwind CSS", percentage: 100 },
   { name: "React", percentage: 100 },
   { name: "Next Js", percentage: 100 },
-  { name: "Front-End Development", percentage: 100 },
+  { name: "Linux/UNIX", percentage: 75 },
   { name: "Back-End Development", percentage: 80 },
   { name: "Adobe XD / FIGMA", percentage: 90 },
   { name: "SQL", percentage: 75 },
