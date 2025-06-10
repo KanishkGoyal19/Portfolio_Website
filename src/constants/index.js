@@ -6,19 +6,19 @@ export const experiences = [
     iconBg: "#FFF",
     date: "Summer 2024, May 2025 - Present",
     points: [
-      "Streamlined production processes by implementing rigorous quality control measures, reducing contamination risks,and enhancing allergen safety through proactive cleaning and maintenance, ensuring compliance with GMP and HACCP standards.",
-      "Improved data tracking efficiency by logging production metrics and generating insightful reports for management, enabling more informed decision-making and optimizing production workflows."
+      "Maintained rigorous operational standards and quality control measures, demonstrating consistency and sharp attention to detail under pressure.",
+      "Improved data tracking efficiency by logging production metrics and generating insightful reports for management, enabling more informed decision-making and optimizing production workflows.."
     ],
   },
   {
-    title: "Guest Registration and Door Staff",
+    title: "Door and On-Call Staff - Residence Life Staff",
     company_name: "University of Guelph",
     icon: "/Images/uofg.jpg", // Replace with the actual path or URL for the icon if needed
     iconBg: "#FFF",
     date: "August 2024 - April 2025",
     points: [
-      "Enforced security protocols by conducting thorough ID checks to verify student status, ensuring compliance with Residence Life Services rules and maintaining a safe environment for students.",
-      "Managed incident reporting and promptly addressed safety concerns, reducing unauthorized entries by 20% and supporting a secure, orderly residence environment for over 100 guests daily."
+      "Ensured compliance with residence policies by verifying IDs and monitoring access, maintaining a safe and controlled student environment.",
+      "Led incident response and safety reporting during tense situations, exercising sound judgment to de-escalate conflicts and uphold residence security.."
     ],
   },
   {
