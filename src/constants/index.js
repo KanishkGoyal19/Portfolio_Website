@@ -1,13 +1,24 @@
 export const experiences = [
   {
+    title: "Customer Service Experience Analyst(Co-op)",
+    company_name: "Stryker",
+    icon: "/Images/stryker.png", // Replace with the actual path or URL for the icon if needed
+    iconBg: "#FFF",
+    date: "September 2025 - December 2025",
+    points: [
+      "Collaborated with cross-functional teams to implement digital tools and system enhancements, improving data accessibility and reporting accuracy for the Customer Experience team.",
+      "Analyzed customer service metrics and operational data to identify workflow inefficiencies, resulting in process adjustments that reduced response times by 15%."
+    ],
+  },
+  {
     title: "Summer Intern - Production Assistant",
     company_name: "Dawn Foods",
     icon: "/Images/dawnfoods.png", // Replace with the actual path or URL for the icon if needed
     iconBg: "#FFF",
-    date: "Summer 2024, May 2025 - Present",
+    date: "Summer 2024, May 2025 - September 2025",
     points: [
       "Maintained rigorous operational standards and quality control measures, demonstrating consistency and sharp attention to detail under pressure.",
-      "Improved data tracking efficiency by logging production metrics and generating insightful reports for management, enabling more informed decision-making and optimizing production workflows.."
+      "Improved data tracking efficiency by logging production metrics and generating insightful reports for management, enabling more informed decision-making and optimizing production workflows."
     ],
   },
   {
@@ -18,7 +29,7 @@ export const experiences = [
     date: "August 2024 - April 2025",
     points: [
       "Ensured compliance with residence policies by verifying IDs and monitoring access, maintaining a safe and controlled student environment.",
-      "Led incident response and safety reporting during tense situations, exercising sound judgment to de-escalate conflicts and uphold residence security.."
+      "Led incident response and safety reporting during tense situations, exercising sound judgment to de-escalate conflicts and uphold residence security."
     ],
   },
   {
@@ -31,12 +42,12 @@ export const experiences = [
       "Revamped website content by consistently updating news, articles, and company innovations, improving user engagement and ensuring timely, accurate information aligned with brand messaging.",
       "Streamlined database tracking of new articles, events, and updates, enhancing data organization and enabling faster content retrieval for the team, contributing to a 15% increase in website traffic."
     ],
-  },
+  }
 ];
 
 export const projects = [
   {
-    title: "Chattr",
+    title: "Chattr", 
     description: "A real-time chat application enabling users to join topic-specific forums and engage in public discussions. Built with React, Next.js, and Tailwind CSS, it incorporates secure authentication via Clerk and chat functionality using the Stream API.",
     tags: [{ name: "React", color: "text-blue-500" }, { name: "JavaScript", color: "text-yellow-500" }, { name: "API Integration", color: "text-orange-500" }, { name: "Next.js", color: "text-green-500" }, { name: "Tailwind CSS", color: "text-pink-500" }, { name: "Node.js", color: "text-cyan-500" }],
     image: "/Images/Project2.png",

@@ -103,15 +103,7 @@ const Contact = () => {
                 alt="Email"
                 className="w-6 h-6 filter invert"
               />
-              <span className="text-white">Kanishkgoyal19@gmail.com</span>
-            </div>
-            <div className="flex items-center space-x-4">
-              <img
-                src="/Images/location.svg"
-                alt="Location"
-                className="w-6 h-6 filter invert"
-              />
-              <span className="text-white">67, Voyager Pass, Binbrook, ON</span>
+              <span className="text-white">Kanishk.goyal@proton.me</span>
             </div>
             <div className="flex items-center space-x-4">
               <a href="https://github.com/KanishkGoyal19" target="_blank" rel="noopener noreferrer">
