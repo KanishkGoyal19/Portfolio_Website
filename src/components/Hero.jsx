@@ -10,7 +10,7 @@ export default function Hero() {
       >
          <TsParticles />
 
-         <div className="sm:block top-10 2xl:top-12 left-8 2xl:left-12 z-40 sm:absolute hidden">
+         <div className="sm:block top-64 md:top-60 lg:top-64 2xl:top-72 left-8 md:left-12 2xl:left-100 z-40 sm:absolute hidden">
             <img
                src="/Images/thoughtbubblenew.webp"
                className="w-24 2xl:w-28"
@@ -18,7 +18,7 @@ export default function Hero() {
             />
          </div>
 
-         <div className="z-50 lg:flex justify-center items-center bg-secondaryBackground px-10 2xl:px-32  lg:h-screen HeroContainer">
+         <div className="lg:flex justify-center items-center bg-secondaryBackground px-10 2xl:px-32  lg:h-screen HeroContainer">
 
             <div className="flex justify-end items-center pt-6 sm:pt-32 md:pt-0 2xl:pl-20 w-full lg:w-[50%] h-1/12 lg:h-full text-center">
                <div className="relative w-80 md:w-96 2xl:w-100 h-80 md:h-96 2xl:h-100 lg:mr-[15%] animate-ProfileAnimate">
@@ -31,7 +31,7 @@ export default function Hero() {
             </div>
 
 
-            <div className="z-50 flex justify-center items-center lg:pt-0 pb-20 lg:pb-0 w-full lg:w-[50%] h-[45%] lg:h-full text-left ">
+            <div className="flex justify-center items-center lg:pt-0 pb-20 lg:pb-0 w-full lg:w-[50%] h-[45%] lg:h-full text-left ">
                <div className="bg-secondaryBackground md:w-96 lg:w-full">
                   <div className="flex items-end space-x-2  animate-slideBottom">
                      <h1 className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] mt-0 mb-0 font-extralight text-2xl text-left text-transparent md:text-3xl lg:text-4xl 2xl:text-5xl bg-clip-text from-orange-500 via-orange-300 to-orange-100">
