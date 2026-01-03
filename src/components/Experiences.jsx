@@ -66,7 +66,7 @@ const ExperienceCard = ({ experience }) => {
 
 const Experience = () => {
   return (
-    <div id = "experience" className="experience-section"> {/* Wrapper for the entire section */}
+    <div id="experience" className="experience-section pt-12 md:pt-14 scroll-mt-14"> {/* Wrapper for the entire section */}
       <motion.div
         variants={textVariant()}
         initial="hidden"

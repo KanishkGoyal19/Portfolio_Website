@@ -1,8 +1,5 @@
-import Main from "../src/Main.jsx";
+import { redirect } from "next/navigation";
+
 export default function Home() {
-  return (
-    <div>
-      <Main />
-    </div>
-   );
+	redirect("/main");
 }

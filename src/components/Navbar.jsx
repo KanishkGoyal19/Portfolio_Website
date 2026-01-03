@@ -36,11 +36,12 @@ export default function Navbar() {
    }, []);
 
    const navLinks = [
-      { name: "Home", href: "#hero" },
-      { name: "About", href: "#about" },
-      { name: "Experience", href: "#experience" },
-      { name: "Projects", href: "#projects" },
-      { name: "Contact", href: "#contact" },
+      { name: "Home", href: "/main#hero" },
+      { name: "About", href: "/main#about" },
+      { name: "WTR", href: "/wtr" },
+      { name: "Experience", href: "/main#experience" },
+      { name: "Projects", href: "/main#projects" },
+      { name: "Contact", href: "/main#contact" },
    ];
 
    return (
@@ -54,7 +55,7 @@ export default function Navbar() {
          <div className="flex items-center justify-between px-8 md:px-16 py-4">
             {/* Logo */}
             <a
-               href="#hero"
+               href="/main#hero"
                className="font-bold text-xl bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] 
                from-orange-500 via-orange-300 to-orange-100 bg-clip-text text-transparent"
             >
