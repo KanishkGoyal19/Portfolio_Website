@@ -48,6 +48,23 @@ export default function WTR() {
 				))}
 			</div>
 
+			<div className="max-w-6xl mx-auto mt-12 grid gap-6 md:grid-cols-2">
+				<div className="rounded-2xl overflow-hidden border border-orange-200/20 shadow-2xl shadow-black/40">
+					<img 
+						src="/Images/StrykerOffice.jpg" 
+						alt="Stryker Office" 
+						className="w-full h-full object-cover"
+					/>
+				</div>
+				<div className="rounded-2xl overflow-hidden border border-orange-200/20 shadow-2xl shadow-black/40">
+					<img 
+						src="/Images/StrykerMission.webp" 
+						alt="Stryker Mission" 
+						className="w-full h-full object-cover"
+					/>
+				</div>
+			</div>
+
 			<div className="max-w-6xl mx-auto mt-12 space-y-8">
 				{sections.map((section) => (
 					<div
