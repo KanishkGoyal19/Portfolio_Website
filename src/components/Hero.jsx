@@ -55,7 +55,7 @@ export default function Hero() {
                            className="bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-orange-500 via-orange-300 to-orange-100 text-primaryBackground no-underline"
                            href="#projects"
                         >
-                           &lt; View My Work /&gt;
+                           &lt; Some of my Projects /&gt;
                         </a>
                      </div>
                      <div className="flex items-center   ml-5 sm:ml-12  text-base text-white hover:underline cursor-pointer">
@@ -68,6 +68,14 @@ export default function Hero() {
 
                         <BsArrowDownCircle className="text-orange-200" />
                      </div>
+                  </div>
+                  <div className="mt-6">
+                     <a
+                        href="/wtr"
+                        className="inline-block px-6 py-3 rounded-lg border border-orange-400/50 bg-orange-50/5 text-orange-100 font-semibold text-sm lg:text-base hover:bg-orange-50/10 hover:border-orange-300 transition-all duration-300 no-underline backdrop-blur"
+                     >
+                           View My Work Term Report
+                     </a>
                   </div>
                </div>
             </div>

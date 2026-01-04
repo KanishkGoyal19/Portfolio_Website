@@ -1,10 +1,8 @@
-import Navbar from "../src/components/Navbar";
 import Link from "next/link";
 
 export default function NotFound() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-slate-50">
-      <Navbar />
       <main className="max-w-5xl mx-auto px-6 md:px-12 pt-28 pb-20 flex flex-col gap-10">
         <div className="flex items-center gap-3 text-orange-200 uppercase tracking-[0.2em] text-xs md:text-sm">
           <span className="h-px w-10 bg-orange-200/60" />
