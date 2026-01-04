@@ -138,15 +138,14 @@ export const sections = [
       "The Excel sheet had performance issues due to multiple users accessing it at the same time, causing crashes, lag, and difficulty reading data. I created a Power App connected to SharePoint that included role-based features. This app allowed Customer Service Representatives to raise inquiries, which were then picked up by Supply Planners who could work on the records and send notifications back to Customer Service. This replaced the inefficient Excel sheet and improved the workflow.",
       "Another project I worked on was creating an automated reminder flow. This flow sent weekly reminder emails to Sales Representatives, Managers, and BUDs for orders pending billing. The system matched pending orders to the relevant individuals and sent reminders based on how long the orders had been open. This increased transparency and accountability across teams.",
       "The technical skills I used—Power Apps, Power Automate, and Power BI—were not directly taught in my academic courses. Instead, I learned them practically through experimentation and testing, applying my coding problem-solving skills to real-world challenges.",
-      "Its important to understand that while these projects, may seem small in scope, they had a significant impact on the day-to-day operations of the teams involved. the time saved and the efficiency gained from automating these processes allowed team members to focus more on their core responsibilities, ultimately enhancing the overall customer experience.",
+      "Its important to understand that while these projects, may seem small in scope, they had a significant impact on the day-to-day operations of the teams involved. The time saved and the efficiency gained from automating these processes allowed team members to focus more on their core responsibilities, ultimately enhancing the overall customer experience.",
       "It was rewarding to see how my work made a difference in real life, solving genuine problems.",
     ],
   },
   {
     heading: "Conclusion",
     paragraphs: [
-      "Overall, my coop work term at Stryker was a highly rewarding experience. I developed both technical and soft skills, contributed meaningful solutions to business problems, and gained a deeper understanding of how technology is used in the corporate world. This experience solidified my interest in pursuing a career in development and gave me the confidence to adapt, learn, and make an impact in future work terms and professional roles.",
-      "Looking back, I am grateful for the opportunity to work at Stryker and for the support and mentorship I received. The skills and experiences I gained during this term will undoubtedly benefit me in my future career endeavors and I look forward to applying what I have learned in upcoming challenges.",
+      "Looking back, I am grateful for the opportunity to work at Stryker and for the support and mentorship I received. I developed valuable technical and soft skills, contributed meaningful solutions to business problems, and gained a deeper understanding of how technology is used in the corporate world. The skills and experiences I gained during this term will undoubtedly benefit me in my future career endeavors and I look forward to applying what I have learned in upcoming challenges.",
     ],
   },
 ];
