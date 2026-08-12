@@ -73,7 +73,7 @@ export default function TsParticles() {
         id="tsparticles"
         particlesLoaded={particlesLoaded}
         options={options}
-        className="hidden md:block"
+        className="hidden md:block pointer-events-none"
       />
     );
   }
